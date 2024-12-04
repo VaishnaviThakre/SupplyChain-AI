@@ -30,11 +30,10 @@
 ---
 
 ## How It Works  
+![image](https://github.com/user-attachments/assets/4ddb1227-e4ab-47e9-8c2e-7bd9c68df9ba)
+
 
 ### **Memory Builder**  
-
-![image](https://github.com/user-attachments/assets/397192e9-407c-42ba-bf11-282e3c947f18)
-
 
 1. **Document Processing**: Adds relevant documents (manuals, reports, etc.) to create a knowledge base.  
 2. **Chunking**: Splits large text into manageable pieces for efficient processing.  
