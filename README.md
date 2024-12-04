@@ -47,17 +47,6 @@
 
 ---
 
-
-##  Why SupplyChainAI?  
-
-Traditional supply chain systems face challenges like fragmented data sources, inefficiencies, and lack of real-time insights. **SupplyChainAI** solves these by:  
-
-1. **Reducing Operational Costs**: Automates repetitive tasks and enhances accuracy.  
-2. **Enhancing Decision-Making**: Provides actionable insights using AI-driven models.  
-3. **Democratizing Access**: Enables non-technical users to retrieve data with ease.  
-
----
-
 ##  Installation  
 
 ### Prerequisites  
